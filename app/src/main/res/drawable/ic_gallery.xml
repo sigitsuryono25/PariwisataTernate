@@ -1,0 +1,17 @@
+<vector android:height="60dp" android:viewportHeight="497"
+    android:viewportWidth="497" android:width="60dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#3ec3ff" android:pathData="m90,7.5v67.5h317v-67.5c0,-4.142 -3.358,-7.5 -7.5,-7.5h-302c-4.142,0 -7.5,3.358 -7.5,7.5z"/>
+    <path android:fillColor="#7ed7ff" android:pathData="m60,37.5v67.5h377v-67.5c0,-4.142 -3.358,-7.5 -7.5,-7.5h-362c-4.142,0 -7.5,3.358 -7.5,7.5z"/>
+    <path android:fillColor="#bfebff" android:pathData="m30,67.5v67.5h437v-67.5c0,-4.142 -3.358,-7.5 -7.5,-7.5h-422c-4.142,0 -7.5,3.358 -7.5,7.5z"/>
+    <path android:fillColor="#dff5ff" android:pathData="m0,97.5v392c0,4.142 3.358,7.5 7.5,7.5h482c4.142,0 7.5,-3.358 7.5,-7.5v-392c0,-4.142 -3.358,-7.5 -7.5,-7.5h-482c-4.142,0 -7.5,3.358 -7.5,7.5z"/>
+    <path android:fillColor="#3ec3ff" android:pathData="m437,120 l-150,267.927h180v-267.927z"/>
+    <path android:fillColor="#7ed7ff" android:pathData="m30,120h407v267.927h-407z"/>
+    <path android:fillColor="#ff5178" android:pathData="m248.5,150v208c57.438,0 104,-46.563 104,-104s-46.563,-104 -104,-104z"/>
+    <path android:fillColor="#ff7169" android:pathData="m322.5,254c0,-57.438 -33.131,-104 -74,-104 -57.438,0 -104,46.563 -104,104s46.563,104 104,104c40.869,0 74,-46.562 74,-104z"/>
+    <path android:fillColor="#09a1e5" android:pathData="m112.054,307.667 l88.789,86.442 -170.843,72.891v-79.073z"/>
+    <path android:fillColor="#077ccc" android:pathData="m467,387.927 l-30,-29.344 -30,93.417 60,15z"/>
+    <path android:fillColor="#09a1e5" android:pathData="m384.946,307.667 l-88.789,86.442 140.843,43.543v-79.069z"/>
+    <path android:fillColor="#89c247" android:pathData="m467,467.001 l-30,-0.001 -30,-14.674 30,-14.674z"/>
+    <path android:fillColor="#b0d16f" android:pathData="m437,437.652v29.348l-407.001,0.001 122.567,-119.894 95.934,-37.699 95.934,37.7z"/>
+    <path android:fillColor="#fff" android:pathData="m248.5,253.266 l-95.938,93.845 48.281,46.998 47.657,-45.133 47.657,45.133 48.277,-47.001z"/>
+</vector>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.surelabs.pariwisataternate.ui.home.HomeFragment"
+        android:label="Profil Wisata"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.surelabs.pariwisataternate.ui.portal.PortalFragment"
+        android:label="Portal Wisata"
+        tools:layout="@layout/fragment_portal" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.surelabs.pariwisataternate.ui.lokasi.LokasiWisata"
+        android:label="Lokasi Wisata"
+        tools:layout="@layout/fragment_lokasi" />
+
+    <fragment
+        android:id="@+id/nav_tools"
+        android:name="com.surelabs.pariwisataternate.ui.galeri.GaleriFragment"
+        android:label="Galeri Wisata"
+        tools:layout="@layout/fragment_galeri" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.surelabs.pariwisataternate.ui.share.ShareFragment"
+        android:label="@string/menu_share"
+        tools:layout="@layout/fragment_share" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/nav_send"-->
+<!--        android:name="com.surelabs.pariwisataternate.ui.send.SendFragment"-->
+<!--        android:label="@string/menu_send"-->
+<!--        tools:layout="@layout/fragment_send" />-->
+</navigation>
